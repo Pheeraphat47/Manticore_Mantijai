@@ -1,0 +1,44 @@
+#boxhome{
+     margin-top: 6.25rem;
+}
+
+
+#homeimage{    
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.clouds{
+    position: absolute;
+    top: 35%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.clouds img {
+    margin-top: 50px;
+    height: 60%;
+}
+
+.cloud1 {
+    position: relative;
+    bottom: 0;
+    max-width: 100%;    
+    animation: animate 12s linear infinite;
+}
+
+
+
+@keyframes animate {
+    0%
+    {
+        transform: translateX(-100%);
+    }
+    100% 
+    {
+        transform: translateX(100%);
+    }
+}

@@ -1,0 +1,171 @@
+#History {
+    padding-top: 400px;    
+}
+
+.header {
+    font-size: 32px;
+    font-weight: 700px;    
+    -webkit-text-stroke: 1px rgba(189, 160, 86, 1);
+    text-shadow: 0px 2px 4px #7b7b7b;
+}
+
+h4 {
+    font-family: 'Inter', sans-serif ;
+    font-size: 32px;
+    font-weight: 500;
+    color: rgba(216, 45, 45, 1);
+    -webkit-text-stroke: 1px rgba(189, 160, 86, 1);
+    text-shadow: 0px 2px 4px #7b7b7b;    
+}
+
+p {
+    font-family: Itim;
+    font-size: 20px;
+    color: rgba(113, 93, 54, 1);
+}
+
+.header {
+    box-sizing: border-box;
+    color: #d82d2d;
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+}
+
+.top-pic {
+    margin-top: 100px;    
+}
+
+.pic01 {
+    height: 415px;
+    width: 416px;
+    margin-left: 150px;
+    margin-top: 25px;
+    float: left;
+}
+
+
+
+.top-topic {
+    box-sizing: border-box;
+    justify-content: space-between;   
+}
+
+.top-topic01 {
+    vertical-align: middle;
+    text-align: center;
+    border: 2px solid rgba(189, 189, 189, 1);
+    width: 563px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 200px;
+    padding: 15px;
+    border-radius: 20px;   
+}
+
+.top-topic02 {
+    vertical-align: middle;
+    text-align: center;
+    border: 2px solid rgba(189, 189, 189, 1);
+    width: 563px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.origin {
+    width: 1154px;
+    margin-top: 750px;
+    margin-left: 160px;
+}
+
+.origin-head {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.origin-text {
+    text-align: left;
+}
+
+.whatManti {
+    width: 1154px;
+    margin-left: 160px;
+    margin-top: 200px;
+    text-align: left;
+}
+
+.whatManti-head{
+    margin-bottom: 30px;
+}
+
+.box-whatManti {
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(rgba(245, 229, 172, 1), rgba(184, 210, 201, 1));
+    padding: 50px;
+    border-radius: 30px;    
+}
+
+.whatManti-text {
+    padding-top: 0px;
+    margin-right: 100px;
+    color: black;
+    
+}
+
+.QA {
+    width: 1154px;
+    margin-left: 160px;
+    margin-top: 200px;
+    margin-bottom: -600px;    
+}
+
+.QA-head {
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.question {
+    color: rgba(189, 136, 32, 1);
+    margin-bottom: 0px;
+    font-size: 25px;
+    text-align: left;
+    
+}
+
+.answer {
+    margin-top: 5px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+
+#ReadMoreBox {    
+    margin-top: 800px;
+    width: 100%;  
+    background-image: linear-gradient(to bottom , #FAEFDE, #E8C998);
+    padding: 40px; 
+    display: flex;     
+    justify-content: center;
+   
+    
+}
+.readmorebtn{       
+    font-family: "Inter" sans-serif;     
+    border: none;
+    color: white;   
+    text-decoration: none;    
+    font-size: 24px; 
+    color: #998665;     
+
+}
+
+.readmorebtn:hover{
+   color: #EC3C3C;
+}
+
